@@ -1,9 +1,7 @@
 ## Hi there 👋
-C est ma langue maternelle. 
-Je parle C++, Python, un peu de Java. 
-Actuellement, je suis en train d'apprendre le Javascript, le Html et le CSS
+C is my native language. I speak C++, Python, and a bit of Java. Currently, I'm learning JavaScript, HTML, and CSS.
 
-Je travaille sur un site pour corriger toutes les épreuves de maths du BAC de tous les pays, dans les moindres détails, en intégrant des liens cliquables pour chaque étape d'un raisonnement, qui mènent à la propriété appliquée pour l'étape en question.
+I'm working on a website to correct all the math exam problems from the BAC in every country, with detailed solutions that include clickable links for each step of the reasoning process, leading to the applied property for the respective step.
 
 <!--Here are some ideas to get you started:
 
